@@ -1,0 +1,9 @@
+check,status,evidence
+No parent P2 directory,PASS,C:\Users\User\AppData\Local\Temp\fps_dashboard_standalone_dsw4cm22
+No environment copied,PASS,.venv absent
+No Python caches copied,PASS,__pycache__ absent
+No absolute or parent-P2 runtime paths,PASS,found=[]
+No row-level identifying or sensitive fields,PASS,incident=[]; source=[]
+Local model artefacts present,PASS,model and preprocessor packaged
+All five isolated pages render,PASS,five isolated pages passed
+Isolated Streamlit server health,PASS,HTTP 200 ok

@@ -1,0 +1,22 @@
+check,status,evidence
+Validated source_incidents,PASS,observed=10430; expected=10430
+Validated incident_modelling,PASS,observed=10399; expected=10399
+Validated incident_clusters,PASS,observed=4; expected=4
+Validated counties,PASS,observed=3143; expected=3143
+Validated zero_fps_counties,PASS,observed=1357; expected=1357
+Validated county_clusters,PASS,observed=2; expected=2
+Validated spatial_regions,PASS,observed=2; expected=2
+Validated fps_positive_counties,PASS,observed=1786; expected=1786
+Anonymized incident display IDs unique,PASS,"rows=10,399"
+No direct incident identifiers copied,PASS,"display_record, year, state, armed_with, threat_type, flee_status, body_camera, median_income, poverty_rate, unemployment_rate, gini_index, bachelor_plus_rate, less_than_highschool_rate, population_density, land_area_sqmi, primary_cluster, profile_name"
+No row-level sensitive deployment fields,PASS,found=[]
+County FIPS unique,PASS,"rows=3,143"
+Zero-FPS counties retained,PASS,"zero-FPS=1,357"
+County geometry coverage,PASS,"features=3,143; unique=3,143"
+Saved incident model loaded,PASS,"centroids=(4, 52)"
+Saved preprocessing metadata loaded,PASS,"keys=['category_levels', 'numeric_scaler', 'time_scaler']"
+Locked P2 notebook/script hashes unchanged,PASS,files=3
+Locked P2 output hashes unchanged,PASS,files=131
+No model fitting in launch-time application,PASS,prohibited tokens found=[]
+Exactly five dashboard pages,PASS,pages=5
+Required dashboard files present,PASS,missing=[]
