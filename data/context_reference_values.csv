@@ -1,0 +1,26 @@
+variable,selection_label,percentile,raw_value
+median_income,Lower (25th percentile),0.25,52343.5
+median_income,Typical (median),0.5,62126.0
+median_income,Higher (75th percentile),0.75,75700.0
+poverty_rate,Lower (25th percentile),0.25,0.1086283531971512
+poverty_rate,Typical (median),0.5,0.1385919044282804
+poverty_rate,Higher (75th percentile),0.75,0.16672594212978145
+unemployment_rate,Lower (25th percentile),0.25,0.042134161298669
+unemployment_rate,Typical (median),0.5,0.0526503150475241
+unemployment_rate,Higher (75th percentile),0.75,0.0655525325111983
+gini_index,Lower (25th percentile),0.25,0.4394
+gini_index,Typical (median),0.5,0.4614
+gini_index,Higher (75th percentile),0.75,0.48335
+bachelor_plus_rate,Lower (25th percentile),0.25,0.2250789154446072
+bachelor_plus_rate,Typical (median),0.5,0.309882863340564
+bachelor_plus_rate,Higher (75th percentile),0.75,0.3708630596001167
+less_than_highschool_rate,Lower (25th percentile),0.25,0.08414532461306615
+less_than_highschool_rate,Typical (median),0.5,0.1118406148456968
+less_than_highschool_rate,Higher (75th percentile),0.75,0.1520232538858082
+population_density,Rural,0.1,39.906935792994766
+population_density,Mixed,0.35,215.6255924247408
+population_density,Urban,0.65,840.8086796377135
+population_density,Highly urban,0.9,2522.576626714308
+land_area_sqmi,Lower (25th percentile),0.25,519.272
+land_area_sqmi,Typical (median),0.5,800.807
+land_area_sqmi,Higher (75th percentile),0.75,1707.288

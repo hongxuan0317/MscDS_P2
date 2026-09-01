@@ -1,0 +1,2 @@
+scope,counties_included,counties_excluded_as_Queen_islands,algorithm,k,ARI_vs_full_graph_on_common_counties,NMI_vs_full_graph_on_common_counties,n_clusters,noise_share,min_cluster_share,silhouette,davies_bouldin,calinski_harabasz,min_cluster_count,max_cluster_count,cluster_size_cv,boundary_cut_ratio,labels_connected,connected_components_across_labels
+lower_48_plus_DC_largest_Queen_component,3108,0,SCHC,2,1.0,1.0,2,0.0,0.3674388674388674,0.0779962749142998,3.4242660133537477,202.36336585029767,1142,1966,0.2651222651222651,0.0372738108137393,True,2

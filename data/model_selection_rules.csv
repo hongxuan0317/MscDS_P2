@@ -1,0 +1,6 @@
+selection_stage,algorithms,hard_eligibility,base_ranking_rule,tie_breaker
+incident_candidate,KMeans/AHC,min cluster share >= 2%,"Silhouette, DBI, CHI, min share, noise coverage",Silhouette
+incident_candidate,HDBSCAN,>=2 clusters; noise <=40%; min share >=2%,Silhouette/DBI/CHI on non-noise plus coverage,Silhouette
+incident_representative,eligible incident representatives,candidate eligibility,"Silhouette, DBI, CHI, min share, common resampling ARI/NMI; equal ranks",Silhouette
+county_conventional,County KMeans/AHC,exact k; min 25 counties; connectedness descriptive,"Silhouette, DBI, CHI, common resampling ARI/NMI, size CV; equal ranks",Silhouette
+county_spatial,SCHC/SKATER,exact k; min 25 counties; every region connected,"Silhouette, DBI, CHI, size CV, boundary-cut ratio; equal ranks",Silhouette

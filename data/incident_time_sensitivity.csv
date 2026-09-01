@@ -1,0 +1,2 @@
+primary_algorithm,primary_configuration,time_algorithm,time_configuration,ARI_primary_vs_time,NMI_primary_vs_time,primary_silhouette,time_silhouette
+KMeans,k=4,KMeans,k=4,0.9053676059030228,0.879141496843677,0.1599946500506895,0.1461509354560838

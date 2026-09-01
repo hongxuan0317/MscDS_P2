@@ -1,0 +1,27 @@
+{
+  "source_incidents": 10430,
+  "incident_modelling": 10399,
+  "incident_ids_unique_before_anonymization": true,
+  "incident_clusters": 4,
+  "counties": 3143,
+  "county_fips_unique": true,
+  "zero_fps_counties": 1357,
+  "county_clusters": 2,
+  "spatial_regions": 2,
+  "fps_positive_counties": 1786,
+  "county_geometries": 3143,
+  "incident_model_centroids": [
+    4,
+    52
+  ],
+  "preprocessor_keys": [
+    "category_levels",
+    "numeric_scaler",
+    "time_scaler"
+  ],
+  "pca_variance": {
+    "PC1": 27.59875587806842,
+    "PC2": 17.556377101231234,
+    "PC1+PC2 cumulative": 45.15513297929966
+  }
+}

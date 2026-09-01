@@ -1,0 +1,93 @@
+{
+  "design": {
+    "situational_combinations": 640,
+    "expanded_context_scenarios": [
+      "Neutral reference",
+      "Lower / rural",
+      "Typical / mixed",
+      "Higher / urban",
+      "Lower / highly urban",
+      "Higher / rural",
+      "Typical / highly urban"
+    ],
+    "model_refitted": false
+  },
+  "comparison": {
+    "Expanded matcher": {
+      "scenarios": 4480,
+      "clusters_reached": 4,
+      "largest_cluster_share_pct": 43.81696428571429,
+      "distribution_entropy_bits": 1.8363672411686969,
+      "mean_first_vs_second_margin": 0.1969753434060197,
+      "cluster_distribution_pct": {
+        "0": 14.285714285714285,
+        "1": 43.81696428571429,
+        "2": 14.285714285714285,
+        "3": 27.611607142857142
+      }
+    },
+    "Original four-input matcher": {
+      "scenarios": 640,
+      "clusters_reached": 2,
+      "largest_cluster_share_pct": 92.8125,
+      "distribution_entropy_bits": 0.3728821453025538,
+      "mean_first_vs_second_margin": 0.0360583821861659,
+      "cluster_distribution_pct": {
+        "1": 7.187499999999999,
+        "3": 92.8125
+      }
+    }
+  },
+  "representative_examples": [
+    {
+      "closest_cluster": 0,
+      "context_scenario": "Typical / highly urban",
+      "armed_with": "Gun",
+      "threat_type": "Shoot",
+      "flee_status": "Not Fleeing",
+      "body_camera": false,
+      "first_distance": 2.1085493243731803,
+      "second_distance": 2.218565905067137,
+      "first_vs_second_margin": 0.11001658069395681
+    },
+    {
+      "closest_cluster": 1,
+      "context_scenario": "Lower / rural",
+      "armed_with": "Gun",
+      "threat_type": "Shoot",
+      "flee_status": "Not Fleeing",
+      "body_camera": false,
+      "first_distance": 2.228523786551131,
+      "second_distance": 2.8976135528634597,
+      "first_vs_second_margin": 0.6690897663123287
+    },
+    {
+      "closest_cluster": 2,
+      "context_scenario": "Higher / urban",
+      "armed_with": "Knife",
+      "threat_type": "Threat",
+      "flee_status": "Vehicle",
+      "body_camera": false,
+      "first_distance": 2.5425595847724125,
+      "second_distance": 2.665528875218849,
+      "first_vs_second_margin": 0.12296929044643656
+    },
+    {
+      "closest_cluster": 3,
+      "context_scenario": "Lower / highly urban",
+      "armed_with": "Knife",
+      "threat_type": "Threat",
+      "flee_status": "Missing",
+      "body_camera": true,
+      "first_distance": 2.8422496118494545,
+      "second_distance": 3.3086118772461726,
+      "first_vs_second_margin": 0.4663622653967181
+    }
+  ],
+  "answers": {
+    "context_materially_improved_variation": true,
+    "one_cluster_dominates_at_least_80_percent": false,
+    "all_four_profiles_reached": true,
+    "expanded_matcher_useful_enough_to_retain": true
+  }
+}

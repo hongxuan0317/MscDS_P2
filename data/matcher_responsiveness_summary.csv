@@ -1,0 +1,7 @@
+matcher,closest_cluster,scenarios,total_scenarios,percentage
+Expanded matcher,0,640,4480,14.285714285714286
+Expanded matcher,1,1963,4480,43.816964285714285
+Expanded matcher,2,640,4480,14.285714285714286
+Expanded matcher,3,1237,4480,27.611607142857142
+Original four-input matcher,1,46,640,7.1875
+Original four-input matcher,3,594,640,92.8125

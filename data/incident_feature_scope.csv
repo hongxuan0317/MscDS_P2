@@ -1,0 +1,20 @@
+source_variable,group,conceptual_scope,exposed_in_hypothetical
+median_income,contextual,County contextual,True
+poverty_rate,contextual,County contextual,True
+unemployment_rate,contextual,County contextual,True
+gini_index,contextual,County contextual,True
+bachelor_plus_rate,contextual,County contextual,True
+less_than_highschool_rate,contextual,County contextual,True
+black_pct,contextual,County contextual,False
+hispanic_pct,contextual,County contextual,False
+youth_pct,contextual,County contextual,False
+population_density,contextual,County contextual,True
+land_area_sqmi,contextual,County contextual,True
+age_group,categorical,Personal/demographic,False
+gender,categorical,Personal/demographic,False
+race,categorical,Personal/demographic,False
+armed_with,categorical,Incident/situational,True
+threat_type,categorical,Incident/situational,True
+flee_status,categorical,Incident/situational,True
+was_mental_illness_related,binary,Personal/demographic,False
+body_camera,binary,Incident/situational,True

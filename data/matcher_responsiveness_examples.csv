@@ -1,0 +1,5 @@
+closest_cluster,context_scenario,armed_with,threat_type,flee_status,body_camera,first_distance,second_distance,first_vs_second_margin
+0,Typical / highly urban,Gun,Shoot,Not Fleeing,False,2.1085493243731803,2.218565905067137,0.11001658069395681
+1,Lower / rural,Gun,Shoot,Not Fleeing,False,2.228523786551131,2.8976135528634597,0.6690897663123287
+2,Higher / urban,Knife,Threat,Vehicle,False,2.5425595847724125,2.665528875218849,0.12296929044643656
+3,Lower / highly urban,Knife,Threat,Missing,True,2.8422496118494545,3.3086118772461726,0.4663622653967181

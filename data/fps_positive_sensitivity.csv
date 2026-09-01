@@ -1,0 +1,3 @@
+model_family,algorithm,k,ARI_vs_all_county_on_shared_rows,NMI_vs_all_county_on_shared_rows,n_clusters,noise_share,min_cluster_share,silhouette,davies_bouldin,calinski_harabasz,min_cluster_count,max_cluster_count,cluster_size_cv,boundary_cut_ratio,labels_connected,connected_components_across_labels
+conventional_county,County_KMeans,2,0.6516279569820969,0.5633997112150017,2,0.0,0.4641657334826428,0.0759205362198487,3.232035822927242,152.8796791135673,829,957,0.0716685330347144,0.2704296545914069,False,203
+spatially_constrained_county,SCHC,2,0.0350338825917304,0.1965305723907699,2,0.0,0.177491601343785,0.091317686427373,4.264609086350798,56.30830515001363,317,1469,0.64501679731243,0.0005616399887672,True,2

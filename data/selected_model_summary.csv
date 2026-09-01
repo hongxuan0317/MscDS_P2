@@ -1,0 +1,4 @@
+representative_role,analytical_unit,observations,selected_algorithm,configuration,clusters,noise_share,silhouette,davies_bouldin,calinski_harabasz,resample_ari_mean,resample_nmi_mean,boundary_cut_ratio,labels_connected
+incident_profile,incident,10399,KMeans,k=4,4,0.0,0.1599946500506895,1.7489280336577386,1752.3889515363396,0.9854807742966551,0.97616897722454,,
+conventional_county,2020 county equivalent,3143,County_KMeans,k=2,2,0.0,0.1269571628424389,2.6375311866015947,360.4587678126463,0.9812980487763704,0.9608607358060844,0.233021203315036,0.0
+spatial_county,2020 county equivalent,3143,SCHC,k=2,2,0.0,0.0768952261615919,3.4170025526958625,203.69132824248013,,,0.0370250780325045,1.0

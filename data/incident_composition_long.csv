@@ -1,0 +1,214 @@
+variable,scope,cluster,category,proportion
+age_group,Overall,Overall,Adult (30-44),0.44783152226175593
+age_group,Overall,Overall,Young Adult (18-29),0.274353303202231
+age_group,Overall,Overall,Middle Age (45-59),0.19713433984036927
+age_group,Overall,Overall,Senior (60+),0.06240984710068276
+age_group,Overall,Overall,Child (0-17),0.018270987594961055
+age_group,Cluster 0,0,Adult (30-44),0.42299898682877407
+age_group,Cluster 0,0,Young Adult (18-29),0.3343465045592705
+age_group,Cluster 0,0,Middle Age (45-59),0.15602836879432624
+age_group,Cluster 0,0,Senior (60+),0.06180344478216818
+age_group,Cluster 0,0,Child (0-17),0.024822695035460994
+age_group,Cluster 1,1,Adult (30-44),0.44181883279627643
+age_group,Cluster 1,1,Middle Age (45-59),0.24740422484783386
+age_group,Cluster 1,1,Young Adult (18-29),0.21732903687790905
+age_group,Cluster 1,1,Senior (60+),0.08306480486931615
+age_group,Cluster 1,1,Child (0-17),0.010383100608664519
+age_group,Cluster 2,2,Adult (30-44),0.4548447789275635
+age_group,Cluster 2,2,Young Adult (18-29),0.3090310442144873
+age_group,Cluster 2,2,Middle Age (45-59),0.17168391345249295
+age_group,Cluster 2,2,Senior (60+),0.04280338664158043
+age_group,Cluster 2,2,Child (0-17),0.021636876763875823
+age_group,Cluster 3,3,Adult (30-44),0.4623502567027952
+age_group,Cluster 3,3,Young Adult (18-29),0.2649743297204792
+age_group,Cluster 3,3,Middle Age (45-59),0.19566457501426127
+age_group,Cluster 3,3,Senior (60+),0.05818596691386195
+age_group,Cluster 3,3,Child (0-17),0.018824871648602397
+gender,Overall,Overall,male,0.9531685739013367
+gender,Overall,Overall,female,0.04442734878353688
+gender,Overall,Overall,Unknown,0.0019232618521011636
+gender,Overall,Overall,non-binary,0.0004808154630252909
+gender,Cluster 0,0,male,0.9549138804457954
+gender,Cluster 0,0,female,0.04305977710233029
+gender,Cluster 0,0,non-binary,0.0010131712259371835
+gender,Cluster 0,0,Unknown,0.0010131712259371835
+gender,Cluster 1,1,male,0.9530970282849982
+gender,Cluster 1,1,female,0.04332259219477264
+gender,Cluster 1,1,Unknown,0.0035803795202291443
+gender,Cluster 2,2,male,0.951552210724365
+gender,Cluster 2,2,female,0.04750705550329257
+gender,Cluster 2,2,Unknown,0.0009407337723424271
+gender,Cluster 3,3,male,0.9532230462065031
+gender,Cluster 3,3,female,0.04420992584141472
+gender,Cluster 3,3,Unknown,0.0017113519680547634
+gender,Cluster 3,3,non-binary,0.0008556759840273817
+race,Overall,Overall,White,0.4473507067987306
+race,Overall,Overall,Black,0.23790749110491394
+race,Overall,Overall,Hispanic,0.16472737763246467
+race,Overall,Overall,Unknown,0.11366477545917877
+race,Overall,Overall,Asian,0.017597845946725647
+race,Overall,Overall,Native,0.013943648427733437
+race,Overall,Overall,Other,0.0035580344263871524
+race,Overall,Overall,Multiracial,0.0012501202038657563
+race,Cluster 0,0,Black,0.5526849037487336
+race,Cluster 0,0,White,0.29635258358662614
+race,Cluster 0,0,Unknown,0.07396149949341439
+race,Cluster 0,0,Hispanic,0.057244174265450865
+race,Cluster 0,0,Asian,0.008611955420466059
+race,Cluster 0,0,Native,0.005065856129685917
+race,Cluster 0,0,Other,0.005065856129685917
+race,Cluster 0,0,Multiracial,0.0010131712259371835
+race,Cluster 1,1,White,0.6584317937701396
+race,Cluster 1,1,Black,0.13283208020050125
+race,Cluster 1,1,Unknown,0.11170784103114931
+race,Cluster 1,1,Hispanic,0.060866451843895455
+race,Cluster 1,1,Native,0.02577873254564984
+race,Cluster 1,1,Asian,0.00966702470461869
+race,Cluster 1,1,Other,0.00035803795202291446
+race,Cluster 1,1,Multiracial,0.00035803795202291446
+race,Cluster 2,2,Hispanic,0.44637817497648163
+race,Cluster 2,2,White,0.26199435559736595
+race,Cluster 2,2,Black,0.16039510818438382
+race,Cluster 2,2,Unknown,0.10159924741298212
+race,Cluster 2,2,Asian,0.016462841015992474
+race,Cluster 2,2,Native,0.0061147695202257765
+race,Cluster 2,2,Other,0.0061147695202257765
+race,Cluster 2,2,Multiracial,0.0009407337723424271
+race,Cluster 3,3,White,0.47661152310325156
+race,Cluster 3,3,Black,0.19138619509412436
+race,Cluster 3,3,Unknown,0.14489446662863661
+race,Cluster 3,3,Hispanic,0.13719338277239018
+race,Cluster 3,3,Asian,0.02966343411294923
+race,Cluster 3,3,Native,0.01426126640045636
+race,Cluster 3,3,Other,0.0037079292641186536
+race,Cluster 3,3,Multiracial,0.0022818026240730175
+armed_with,Overall,Overall,Gun,0.5788056543898452
+armed_with,Overall,Overall,Knife,0.17020867391095298
+armed_with,Overall,Overall,Unclear Weapon Information,0.060390422155976536
+armed_with,Overall,Overall,Unarmed,0.05423598422925281
+armed_with,Overall,Overall,Vehicle,0.03558034426387153
+armed_with,Overall,Overall,Replica,0.031733820559669196
+armed_with,Overall,Overall,Blunt Object,0.02423309933647466
+armed_with,Overall,Overall,Missing,0.020290412539667277
+armed_with,Overall,Overall,Multiple Weapons,0.014135974612943553
+armed_with,Overall,Overall,Other,0.010385614001346284
+armed_with,Cluster 0,0,Gun,0.630192502532928
+armed_with,Cluster 0,0,Knife,0.14893617021276595
+armed_with,Cluster 0,0,Unarmed,0.05927051671732523
+armed_with,Cluster 0,0,Unclear Weapon Information,0.037993920972644375
+armed_with,Cluster 0,0,Vehicle,0.03090172239108409
+armed_with,Cluster 0,0,Replica,0.028368794326241134
+armed_with,Cluster 0,0,Blunt Object,0.019756838905775075
+armed_with,Cluster 0,0,Missing,0.019250253292806486
+armed_with,Cluster 0,0,Multiple Weapons,0.014690982776089158
+armed_with,Cluster 0,0,Other,0.010638297872340425
+armed_with,Cluster 1,1,Gun,0.6040100250626567
+armed_with,Cluster 1,1,Knife,0.14070891514500536
+armed_with,Cluster 1,1,Unclear Weapon Information,0.07912638739706408
+armed_with,Cluster 1,1,Unarmed,0.05442176870748299
+armed_with,Cluster 1,1,Vehicle,0.030433225921947728
+armed_with,Cluster 1,1,Missing,0.02577873254564984
+armed_with,Cluster 1,1,Replica,0.022914428929466525
+armed_with,Cluster 1,1,Blunt Object,0.021482277121374866
+armed_with,Cluster 1,1,Multiple Weapons,0.011099176512710347
+armed_with,Cluster 1,1,Other,0.010025062656641603
+armed_with,Cluster 2,2,Gun,0.5239887111947319
+armed_with,Cluster 2,2,Knife,0.1947318908748824
+armed_with,Cluster 2,2,Unarmed,0.06444026340545625
+armed_with,Cluster 2,2,Unclear Weapon Information,0.05315145813734713
+armed_with,Cluster 2,2,Replica,0.03998118532455315
+armed_with,Cluster 2,2,Blunt Object,0.03527751646284102
+armed_with,Cluster 2,2,Vehicle,0.03386641580432737
+armed_with,Cluster 2,2,Missing,0.02492944496707432
+armed_with,Cluster 2,2,Multiple Weapons,0.016933207902163686
+armed_with,Cluster 2,2,Other,0.012699905926622766
+armed_with,Cluster 3,3,Gun,0.5630347974900171
+armed_with,Cluster 3,3,Knife,0.19081574443810612
+armed_with,Cluster 3,3,Unclear Weapon Information,0.06246434683399886
+armed_with,Cluster 3,3,Unarmed,0.0450656018254421
+armed_with,Cluster 3,3,Vehicle,0.04335424985738734
+armed_with,Cluster 3,3,Replica,0.0356531660011409
+armed_with,Cluster 3,3,Blunt Object,0.022247575584711923
+armed_with,Cluster 3,3,Multiple Weapons,0.014546491728465488
+armed_with,Cluster 3,3,Missing,0.013690815744438107
+armed_with,Cluster 3,3,Other,0.00912721049629207
+threat_type,Overall,Overall,Shoot,0.27993076257332433
+threat_type,Overall,Overall,Threat,0.25627464179248005
+threat_type,Overall,Overall,Point,0.18155591883834984
+threat_type,Overall,Overall,Attack,0.14289835561111644
+threat_type,Overall,Overall,Unclear Threat,0.058274834118665256
+threat_type,Overall,Overall,Move,0.05740936628521973
+threat_type,Overall,Overall,Flee,0.01836715068756611
+threat_type,Overall,Overall,Accident,0.0052889700932782
+threat_type,Cluster 0,0,Shoot,0.3191489361702128
+threat_type,Cluster 0,0,Threat,0.23049645390070922
+threat_type,Cluster 0,0,Point,0.1879432624113475
+threat_type,Cluster 0,0,Attack,0.14994934143870314
+threat_type,Cluster 0,0,Move,0.04711246200607903
+threat_type,Cluster 0,0,Unclear Threat,0.04356636271529889
+threat_type,Cluster 0,0,Flee,0.015197568389057751
+threat_type,Cluster 0,0,Accident,0.006585612968591692
+threat_type,Cluster 1,1,Shoot,0.2953813104189044
+threat_type,Cluster 1,1,Threat,0.23379878267096313
+threat_type,Cluster 1,1,Point,0.20443967060508414
+threat_type,Cluster 1,1,Attack,0.13712853562477623
+threat_type,Cluster 1,1,Unclear Threat,0.06265664160401002
+threat_type,Cluster 1,1,Move,0.04690297171500179
+threat_type,Cluster 1,1,Flee,0.015037593984962405
+threat_type,Cluster 1,1,Accident,0.004654493376297888
+threat_type,Cluster 2,2,Threat,0.27516462841015993
+threat_type,Cluster 2,2,Shoot,0.24129821260583256
+threat_type,Cluster 2,2,Point,0.17685794920037629
+threat_type,Cluster 2,2,Attack,0.15757290686735653
+threat_type,Cluster 2,2,Move,0.06491063029162747
+threat_type,Cluster 2,2,Unclear Threat,0.051269990592662275
+threat_type,Cluster 2,2,Flee,0.023518344308560677
+threat_type,Cluster 2,2,Accident,0.00940733772342427
+threat_type,Cluster 3,3,Threat,0.2772390188248717
+threat_type,Cluster 3,3,Shoot,0.268967484312607
+threat_type,Cluster 3,3,Point,0.16257843696520252
+threat_type,Cluster 3,3,Attack,0.13462635482030805
+threat_type,Cluster 3,3,Unclear Threat,0.06731317741015402
+threat_type,Cluster 3,3,Move,0.06702795208214489
+threat_type,Cluster 3,3,Flee,0.019680547632629778
+threat_type,Cluster 3,3,Accident,0.002567027952082145
+flee_status,Overall,Overall,Not Fleeing,0.5350514472545437
+flee_status,Overall,Overall,Vehicle,0.1935763054139821
+flee_status,Overall,Overall,Missing,0.14241754014809116
+flee_status,Overall,Overall,Foot,0.128954707183383
+flee_status,Cluster 0,0,Not Fleeing,0.5486322188449848
+flee_status,Cluster 0,0,Vehicle,0.17426545086119555
+flee_status,Cluster 0,0,Foot,0.160081053698075
+flee_status,Cluster 0,0,Missing,0.11702127659574468
+flee_status,Cluster 1,1,Not Fleeing,0.547798066595059
+flee_status,Cluster 1,1,Vehicle,0.20372359470103832
+flee_status,Cluster 1,1,Missing,0.1439312567132116
+flee_status,Cluster 1,1,Foot,0.10454708199069102
+flee_status,Cluster 2,2,Not Fleeing,0.5310442144873001
+flee_status,Cluster 2,2,Vehicle,0.20272812793979303
+flee_status,Cluster 2,2,Foot,0.15145813734713076
+flee_status,Cluster 2,2,Missing,0.1147695202257761
+flee_status,Cluster 3,3,Not Fleeing,0.5196805476326298
+flee_status,Cluster 3,3,Vehicle,0.19081574443810612
+flee_status,Cluster 3,3,Missing,0.17227609811751282
+flee_status,Cluster 3,3,Foot,0.11722760981175129
+was_mental_illness_related,Overall,Overall,0,0.8028656601596307
+was_mental_illness_related,Overall,Overall,1,0.19713433984036927
+was_mental_illness_related,Cluster 0,0,0,0.8049645390070922
+was_mental_illness_related,Cluster 0,0,1,0.1950354609929078
+was_mental_illness_related,Cluster 1,1,0,0.8052273540995345
+was_mental_illness_related,Cluster 1,1,1,0.19477264590046545
+was_mental_illness_related,Cluster 2,2,0,0.8306679209783632
+was_mental_illness_related,Cluster 2,2,1,0.16933207902163688
+was_mental_illness_related,Cluster 3,3,0,0.7829435253850542
+was_mental_illness_related,Cluster 3,3,1,0.21705647461494582
+body_camera,Overall,Overall,0,0.8272910856813155
+body_camera,Overall,Overall,1,0.1727089143186845
+body_camera,Cluster 0,0,0,0.7917933130699089
+body_camera,Cluster 0,0,1,0.20820668693009117
+body_camera,Cluster 1,1,0,0.9101324740422485
+body_camera,Cluster 1,1,1,0.08986752595775152
+body_camera,Cluster 2,2,0,0.8264346190028222
+body_camera,Cluster 2,2,1,0.1735653809971778
+body_camera,Cluster 3,3,0,0.7818026240730177
+body_camera,Cluster 3,3,1,0.21819737592698232
